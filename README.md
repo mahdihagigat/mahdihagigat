@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi 🙋‍♂️ My name is Mohammad Amin Saeedi Rad
+Hi 🙋‍♂️ My name is Mahdi Hagigat
 ======
 
 Mern Stack Developer
