@@ -29,7 +29,7 @@ Hi 🙋‍♂️ My name is Mahdi Hagigat
 
 <p align="left">
 <a href="https://www.instagram.com/mahdi__hagigat1382/profilecard/?igsh=MTUzdXBhb2cxOXhkOA==" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /></a>
-<a href="t.me/mahdi80803" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>
+<a href="https://t.me/mahdi80803" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>
 </p>
 
 
