@@ -46,6 +46,6 @@ Frontend Developer with over 3 Years of professional experience in web designing
 
 <a href="">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-    <img src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://github-profile-trophy.vercel.app/?username=mahdihagigat&theme=dracula)" width="200" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mahdihagigat&theme=dracula" width="200" />
 </a>
 
