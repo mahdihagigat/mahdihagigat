@@ -3,6 +3,15 @@
 Hi 🙋‍♂️ My name is Mahdi Hagigat
 ======
 
+Flutter developer
+
+- 🌍 I am based in Tehran (Iran).
+- 🖥️ See the portfolio at .
+- ✉️ You can contact me at [mahdihagigat2@gmail.com] (mahdihagigat2@gmail.com)
+- 🧠 I'm learning Kotlin
+- 🤝  I am ready to collaborate on Flutter-based projects
+
+
 ### Skills
 
 <p align="left">
